@@ -1,0 +1,4 @@
+name: DeathKick
+version: '${project.version}'
+main: com.arr4nn.deathkick.DeathKick
+api-version: 1.19
